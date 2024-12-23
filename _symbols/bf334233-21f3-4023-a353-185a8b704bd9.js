@@ -1,4 +1,4 @@
-// Social Links - Updated December 16, 2024
+// Social Links - Updated December 23, 2024
 function noop() { }
 function assign(tar, src) {
     // @ts-ignore
@@ -2929,8 +2929,8 @@ function create_each_block(ctx) {
 		h() {
 			attr(a, "href", a_href_value = /*link*/ ctx[4].url);
 			attr(a, "aria-label", a_aria_label_value = /*link*/ ctx[4].label);
-			attr(a, "class", "svelte-4qgawz");
-			attr(li, "class", "svelte-4qgawz");
+			attr(a, "class", "svelte-omos6j");
+			attr(li, "class", "svelte-omos6j");
 		},
 		m(target, anchor) {
 			insert_hydration(target, li, anchor);
@@ -3014,9 +3014,9 @@ function create_fragment(ctx) {
 			this.h();
 		},
 		h() {
-			attr(ul, "class", "svelte-4qgawz");
-			attr(div, "class", "card svelte-4qgawz");
-			attr(section, "class", "section-container svelte-4qgawz");
+			attr(ul, "class", "svelte-omos6j");
+			attr(div, "class", "card svelte-omos6j");
+			attr(section, "class", "section-container svelte-omos6j");
 		},
 		m(target, anchor) {
 			insert_hydration(target, section, anchor);
